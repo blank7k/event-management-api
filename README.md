@@ -4,7 +4,7 @@ A Node.js + Express + PostgreSQL REST API for managing users, events, and regist
 
 🚀 Setup Instructions
 1️⃣ Clone & Install
-git clone <your_repo_url>
+git clone <https://github.com/blank7k/event-management-api.git>
 cd event-api
 npm install
 
